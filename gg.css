@@ -1,0 +1,100 @@
+.header-container
+{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+ 
+.logo-div
+{
+    flex: 1;
+    width: 200px;
+ 
+}
+ 
+.topnav
+{
+    flex: 2;
+   
+}
+ 
+ 
+ 
+.button
+{
+  background-color: #ffffff; /* Green */
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+ 
+.topnav a:hover
+{
+    color: red;
+}
+ 
+#active
+{
+    color: red;
+}
+.imagedoctor
+{
+    width: 100%;
+}
+.picandtext{
+    position: relative;
+}
+.word{
+    position: absolute;
+    top: 40%;
+}
+.word{
+    padding: 40px;
+}
+.bott{
+    margin-bottom: 0%;
+}
+.col{
+    margin-right: 50px;
+    margin-bottom: 30px;
+    padding-right: 130px;
+    height: 40px;
+}
+.sub{
+    margin-right: 50px;
+    margin-bottom: 30px;
+    padding-right: 110px;
+    background-color:greenyellow;
+    height: 40px;
+}
+.col1{
+    padding-right: 170px;
+    margin-right: 52px;
+    height: 40px;
+}
+.col2{
+    padding-right: 170px;
+    margin-right: 52px;
+    height: 40px;
+}
+.mainClass{
+    background-color: white;
+    border-radius: 5px;
+    position: absolute;
+    left: 15%;
+    top: 90%;
+}
+.row1{
+    margin-left: 50px;
+}
+.row2{
+    margin-left: 50px;
+}
+.hding{
+    margin-left: 50px;
+}
+
